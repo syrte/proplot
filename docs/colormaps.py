@@ -266,7 +266,7 @@ fig, axs = pplt.show_channels(cmap3, cmap4, refwidth=1.5, rgb=False)
 # right inside proplot. Segmented colormaps are often desirable for complex
 # datasets with complex statistical distributions.
 #
-# In the below example, we create a new divering colormap and
+# In the below example, we create a new diverging colormap and
 # reconstruct the colormap from `this SciVisColor example
 # <https://sciviscolor.org/media/filer_public/c7/27/c727e638-82eb-445b-bc96-e7b64c13efa2/colormoves.png>`__.
 # We also save the results for future use by passing ``save=True`` to
